@@ -1,0 +1,3 @@
+how many arguments in function?
+1-ther are 2 arguments in function ..first *argrs,second-**kwargs,3rd-postinal argument,4th-default argument,5th-variable length argument(*n,**n)there have 2 argument variable=*args(tuple),**args(dict),*args-varible length argument,**args=varible length keyword argument
+
