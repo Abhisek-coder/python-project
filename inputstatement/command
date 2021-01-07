@@ -1,0 +1,10 @@
+from sys import argv
+print("this is my own number",argv)
+print("this is length of argument",len(argv))
+print("this is my adding of argument",argv[2]+argv[4])
+sum=0
+args=argv[1:]
+for x in args:
+	n=int(x)
+	sum=sum+n
+print("the sum is",sum)
